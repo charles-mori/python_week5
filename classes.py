@@ -24,6 +24,8 @@ class FlyingHero(Superhero):
     def get_flight_speed(self):
         return self.__flight_speed
 
+#testing out the class
+
 hero1 = Superhero("ShadowStrike", "Invisibility", "Metroville")
 hero1.introduce()
 hero1.use_power()
